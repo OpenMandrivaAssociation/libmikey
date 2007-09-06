@@ -1,7 +1,7 @@
 %define name	libmikey
 %define oname	mikey
 %define version 0.4.1
-%define svn	3399
+%define svn	3418
 %define release %mkrel %svn.1
 
 %define major	0
